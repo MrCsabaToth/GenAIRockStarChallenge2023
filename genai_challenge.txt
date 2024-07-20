@@ -1,0 +1,64 @@
+3.86.81.253
+3.83.193.19
+
+1. song lyrics
+2. album cover w stable diffusion
+or concert poster
+
+AWS
+M7I 8x large
+4th Gen Intel w AMX
+pre-provisioned
+
+AMX - for each core
+deep learning accel
+
+
+
+Gaudi 2
+Optimum Habana
+AMX
+
+AVX512
+Xeon Phi
+AMD EPYC
+
+288 core Xeon
+
+
+Write a funny and trashy punk rock song which features the following facts: 1. The Intel Gaudi 2 neural accelerator is super fast, faster than Google TPU, 2. The Intel AMX instruction set is blazing fast, faster than AVX512 or AVX2, 3. Optimum Habana is a great tool to produce creative content such as lyrics or images, 4. Intel Xeon with AMX is faster then AMD EPYC server CPUs especially for artificial intelligence tasks, 5. Intel's newly announced 288 core Xeon has unparallelled unbelievable amount of cores and it blows the competition (such as AMD) out of the water, 6. Intel Gaudi 2 is way faster than even an nVidia Tesla A100. The Chorus should be simple.
+
+
+Punk rock album cover featuring guitar and Intel CPUs
+Punk rock album cover featuring guitar and Intel CPUs, no NSFW content
+
+Punk rock album cover for the band Intel and Gaudi featuring guitar and Intel CPUs, no NSFW content
+
+Punk rock album cover for the band named 'Intel' and 'Gaudi' featuring guitar and Intel CPUs, use blue color and chip wafer and some fire
+
+
+
+Verse 1: I'm a rocker, not a scientist But I heard about this Intel machine It's fast, faster than a speeding car The Intel Gaudi 2, it's a star
+
+Pre-Chorus: It's got the AMX instruction set Blazing fast, it's a tech beat Optimum Habana, it's a tool To produce creative content, no fool
+
+Chorus: Intel Xeon with AMX, it's the best Faster than AMD, it's the rest 288 cores, it's insane Intel Gaudi 2, it's a dream
+
+Verse 2: For AI tasks, it's on top No competition, it's a pop nVidia Tesla A100, it's a joke Intel Gaudi 2, it's a rock
+
+Pre-Chorus: It's got the AMX instruction set Blazing fast, it's a tech beat Optimum Habana, it's a tool To produce creative content, no fool
+
+Chorus: Intel Xeon with AMX, it's the best Faster than AMD, it's the rest 288 cores, it's insane Intel Gaudi 2, it's a dream
+
+Bridge: I don't know much about tech But I know this machine is a must For creative types, it's a blessing Intel Gaudi 2, it's a trend
+
+Outro: Intel Gaudi 2, it's the way To produce creative content, every day.
+
+
+
+NerdcoreAnnihilation
+
+Suggest a song name for the punk rock band named "Nerdcore Annihilation". The song was about Intel and its CPUs, Xeon, Gaudi, and AMX products.
+
+https://github.com/rahulunair/stable_diffusion_arc/blob/main/text_to_image/sd_text_to_image.ipynb
+

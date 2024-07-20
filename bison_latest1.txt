@@ -1,0 +1,41 @@
+Verse 1:
+Intel Gaudi 2, the neural accelerator,
+Is super fast, faster than Google TPU.
+Intel AMX instruction set,
+Blazing fast, faster than AVX512 or AVX2.
+
+Chorus:
+Intel, Intel,
+You're the best,
+Your chips are the fastest,
+The rest are a mess.
+
+Verse 2:
+Optimum Habana, a great tool,
+To produce creative content,
+Lyrics or images,
+It's all good, it's all great.
+
+Chorus:
+Intel, Intel,
+You're the best,
+Your chips are the fastest,
+The rest are a mess.
+
+Bridge:
+Intel Xeon with AMX,
+Faster than AMD EPYC server CPUs,
+Especially for artificial intelligence tasks,
+Intel's newly announced 288 core Xeon,
+Has an unpralleled unbelievable amount of cores,
+It blows the competition out of the water.
+
+Chorus:
+Intel, Intel,
+You're the best,
+Your chips are the fastest,
+The rest are a mess.
+
+Outro:
+Intel Gaudi 2, way faster,
+Than even an nVidia Tesla
